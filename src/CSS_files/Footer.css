@@ -1,0 +1,41 @@
+
+.footer-main{
+    /* border: 2px solid red; */
+    height:60vh;
+    width:100%;
+    display: flex;
+    justify-content: end;
+    background-color: #18263b;
+    
+}
+
+.footer-css{
+    /* border: 2px solid green; */
+    width: 20%;
+    height: 100%;
+    margin-right: 3rem;
+   text-align: center;
+   font-family: sans-serif;
+   
+    
+}
+
+.footer-css h2{
+    margin-top: 6rem;
+    color: #65a9fc;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+}
+
+.footer-css p{
+    color: white;
+}
+.footer-css p:hover{
+    color: gray;
+}
+
+.footer-css img{
+    margin-top:3rem;
+    width:5rem;
+    height: 4rem;
+}
